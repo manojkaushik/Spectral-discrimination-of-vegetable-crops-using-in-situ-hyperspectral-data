@@ -2,7 +2,7 @@
 
 
 ## Description
-. Large scale multi-crop discrimination using airborne, or satellite remote sensing is required for farm level intervention and for decision making by various stake holders such as agriculture insurance companies, risk assessment agencies and local governments. We has assessed the spectral discrimination of as many as 23 different vegetable crops and attempted discriminating a few vegetable crops grown under organic and inorganic crop growing practices. For this, we have applied 12 different statistical and machine learning algorithms establishing the spectral discrimination and assessing its relative stand across the range of crops considered.
+Large scale multi-crop discrimination using airborne, or satellite remote sensing is required for farm level intervention and for decision making by various stake holders such as agriculture insurance companies, risk assessment agencies and local governments. We has assessed the spectral discrimination of as many as 23 different vegetable crops and attempted discriminating a few vegetable crops grown under organic and inorganic crop growing practices. For this, we have applied 12 different statistical and machine learning algorithms establishing the spectral discrimination and assessing its relative stand across the range of crops considered.
 
 
 ## Data Availability
