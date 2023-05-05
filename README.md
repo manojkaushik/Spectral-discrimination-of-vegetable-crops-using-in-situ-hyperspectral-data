@@ -10,13 +10,13 @@ Partial data is provided in the Data folder.
 
 
 ## Workflow
-<img src="figure/methodology.png"/>
+<img src="figure/methodology-1.png"/>
 
 ## Location
-<img src="figure/location.jpg"/>
+<img src="figure/location-1.jpg"/>
 
 ## Confusion Matrix
-<img src="figure/cnf_mtrix.jpg"/>
+<img src="figure/cnf_mtrix-1.jpg"/>
 
 ## Citation
 
